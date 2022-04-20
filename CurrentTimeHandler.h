@@ -11,4 +11,4 @@ public:
 	void handleRequest(Poco::Net::HTTPServerRequest& request, Poco::Net::HTTPServerResponse& response);
 };
 
-#endif // CurrentTimeHandler_INCLUDED
+#endif 
