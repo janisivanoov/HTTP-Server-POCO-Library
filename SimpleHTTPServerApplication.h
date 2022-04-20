@@ -9,4 +9,4 @@ protected:
 	int main(const std::vector<std::string> &args);
 };
 
-#endif // SimpleHTTPServerApplication_INCLUDED
+#endif
