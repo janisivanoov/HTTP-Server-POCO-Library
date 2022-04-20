@@ -11,4 +11,4 @@ public:
 	Poco::Net::HTTPRequestHandler * createRequestHandler (const Poco::Net::HTTPServerRequest &request);
 };
 
-#endif // HandlerFactory_INCLUDED
+#endif 
